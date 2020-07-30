@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/languages/count/dgbragas/gostack__first-fundamentals?style=for-the-badge" />
   <img src="https://img.shields.io/github/repo-size/dgbragas/gostack__first-fundamentals?style=for-the-badge" />
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=PROJECT%20STATUS&message=FINISHED&color=GREEN&style=for-the-badge" />
 </p>
 
 ## **:book: Summary**
