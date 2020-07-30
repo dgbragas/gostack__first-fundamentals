@@ -9,7 +9,6 @@
 ## **:book: Summary**
 
 - [About this project](#-about-the-project)
-- [Principle libraries](#-principle-libraries)
 - [Prerequisites](#warning-prerequisites)
 
 ## **<img src="./docs/rocket.svg"> About the project**
