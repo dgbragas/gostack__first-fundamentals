@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/dgbragas/Documentos/gostack__f01-mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml",
+            "outputFile": "/home/dgbragas/Documentos/gostack__first-fundamentals/mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml",
             "map": [
                 {
                     "source": "/home/dgbragas/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/res/values-ko/values-ko.xml",

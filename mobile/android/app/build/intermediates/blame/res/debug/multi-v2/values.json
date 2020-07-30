@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/dgbragas/Documentos/gostack__f01-mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/dgbragas/Documentos/gostack__first-fundamentals/mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/dgbragas/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/res/values/values.xml",
@@ -23,24 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/dgbragas/.gradle/caches/transforms-2/files-2.1/19d1c182e6c7d098fbac2bd1d21b883f/jetified-flipper-0.33.1/res/values/values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "56",
-                        "endOffsets": "107"
-                    },
-                    "to": {
-                        "startLines": "235",
-                        "startColumns": "4",
-                        "startOffsets": "15578",
-                        "endColumns": "56",
-                        "endOffsets": "15630"
-                    }
-                },
-                {
-                    "source": "/home/dgbragas/.gradle/caches/transforms-2/files-2.1/1b958885b373d8ec23178d4d69d9b835/jetified-react-native-0.62.1/res/values/values.xml",
+                    "source": "/home/dgbragas/.gradle/caches/transforms-2/files-2.1/19c17c04d17071184b2956db59bac88e/jetified-react-native-0.62.1/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,73,77,80,83,86,89,93,97,100,103,106,109,110,111,119,126,133,136,139,142,148",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -59,20 +42,20 @@
                     }
                 },
                 {
-                    "source": "/home/dgbragas/Documentos/gostack__f01-mobile/android/app/src/main/res/values/strings.xml",
+                    "source": "/home/dgbragas/.gradle/caches/transforms-2/files-2.1/19d1c182e6c7d098fbac2bd1d21b883f/jetified-flipper-0.33.1/res/values/values.xml",
                     "from": {
-                        "startLines": "1",
+                        "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "43",
-                        "endOffsets": "55"
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
                     },
                     "to": {
-                        "startLines": "292",
+                        "startLines": "235",
                         "startColumns": "4",
-                        "startOffsets": "19003",
-                        "endColumns": "43",
-                        "endOffsets": "19042"
+                        "startOffsets": "15578",
+                        "endColumns": "56",
+                        "endOffsets": "15630"
                     }
                 },
                 {
@@ -95,24 +78,7 @@
                     }
                 },
                 {
-                    "source": "/home/dgbragas/Documentos/gostack__f01-mobile/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
-                    "from": {
-                        "startLines": "6,7",
-                        "startColumns": "4,4",
-                        "startOffsets": "157,221",
-                        "endColumns": "63,68",
-                        "endOffsets": "216,285"
-                    },
-                    "to": {
-                        "startLines": "261,262",
-                        "startColumns": "4,4",
-                        "startOffsets": "16861,16925",
-                        "endColumns": "63,68",
-                        "endOffsets": "16920,16989"
-                    }
-                },
-                {
-                    "source": "/home/dgbragas/Documentos/gostack__f01-mobile/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/dgbragas/Documentos/gostack__first-fundamentals/mobile/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -150,6 +116,23 @@
                     }
                 },
                 {
+                    "source": "/home/dgbragas/Documentos/gostack__first-fundamentals/mobile/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "157,221",
+                        "endColumns": "63,68",
+                        "endOffsets": "216,285"
+                    },
+                    "to": {
+                        "startLines": "261,262",
+                        "startColumns": "4,4",
+                        "startOffsets": "16861,16925",
+                        "endColumns": "63,68",
+                        "endOffsets": "16920,16989"
+                    }
+                },
+                {
                     "source": "/home/dgbragas/.gradle/caches/transforms-2/files-2.1/3eb43dcc83336306d77ef63b3402a327/appcompat-resources-1.1.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,29,36,47,74",
@@ -166,6 +149,23 @@
                         "endLines": "2094,2101,2112,3381,3386",
                         "endColumns": "24,24,24,24,24",
                         "endOffsets": "141700,142085,142682,207671,207941"
+                    }
+                },
+                {
+                    "source": "/home/dgbragas/Documentos/gostack__first-fundamentals/mobile/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "43",
+                        "endOffsets": "55"
+                    },
+                    "to": {
+                        "startLines": "292",
+                        "startColumns": "4",
+                        "startOffsets": "19003",
+                        "endColumns": "43",
+                        "endOffsets": "19042"
                     }
                 }
             ]
